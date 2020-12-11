@@ -1,0 +1,14 @@
+OBSERVABLE TRENDS
+
+
+One clear trend that you can gather from the data tables is that Charter schools tend to perform better than district schools.
+From the data tables of top performing schools and bottom performing schools (based on overall percentage passing math and reading),
+you can see that the top 5 schools performance wise are all Charter schools, where as the bottom 5 schools are all district schools.
+This is a very clear trend that can be drawn from the data.
+
+Another clear trend that you can gather is that it looks like the schools with the lower budgets perform better across the board
+in math and reading averages than the schools with the higher budgets per student.  This was definitely an interesting trend, as my first 
+assumption would be that a higher budger per student would mean better performance, as they have more resources available to them with
+a higher budget, but that is actually not the case based on the data.  The higher the per student budget, the worse they perform!
+
+ 
